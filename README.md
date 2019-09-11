@@ -1,3 +1,3 @@
 # MAD9013 First Assignment
 Learning GitHub pages
-https://github.com/mccoyj92/starter
+https://mccoyj92.github.io/index.html
